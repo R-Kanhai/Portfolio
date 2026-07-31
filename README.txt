@@ -15,7 +15,7 @@ Data analyst well-versed in **SQL, Python, Tableau, Excel, and R**, with a stron
 ## 📂 Featured Projects
 
 ### [Cyclistic Bike-Share Analysis]
-(https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)
+![Power BI](https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)
 Capstone project for the **Google Data Analytics Professional Certificate**, analyzing three months of ride data across two consecutive years (2019 & 2020) for a fictional bike-share company. The project uncovered user behavior patterns and delivered actionable recommendations to increase annual memberships, combining:
 - Data cleaning and exploration in **SQL**
 - An 8-tab interactive Tableau dashboard — *Weekday vs Weekend, Rides per Day of Week, Monthly Data Rides, Usage Duration, Origin-Destination Pair, Distance Travelled from Start Stations, Most Popular Start Stations,* and a summary *Cyclistic Ride Data* view
