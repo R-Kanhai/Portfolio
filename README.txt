@@ -14,7 +14,11 @@ Data analyst well-versed in **SQL, Python, Tableau, Excel, and R**, with a stron
 
 ## 📂 Featured Projects
 
+---
+
 ![Tableau](https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)
+
+---
 
 ### [Cyclistic Bike-Share Analysis]
 
