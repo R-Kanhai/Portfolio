@@ -39,9 +39,9 @@ https://r-kanhai.github.io/Portfolio/
 
 ## 🚴 Cyclistic Bike Share Analysis
 
-> Click the image below to explore the interactive Tableau dashboard.
+> Click the URL below to explore the interactive Tableau dashboard.
 
-[![Cyclistic Dashboard](https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)](https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData)
+URL : https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData
 
 ---
 
