@@ -14,7 +14,7 @@ Data analyst well-versed in **SQL, Python, Tableau, Excel, and R**, with a stron
 
 ## 📂 Featured Projects
 
-![Tableau](https://raw.githubusercontent.com/R-Kanhai/Meta_Ads_Dashboard/main/Snapshot%20of%20Meta_Ads_Dashboard.png)
+![Tableau](https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)
 
 ### [Cyclistic Bike-Share Analysis]
 
