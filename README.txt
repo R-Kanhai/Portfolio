@@ -41,7 +41,7 @@ https://r-kanhai.github.io/Portfolio/
 
 > Click the image below to explore the interactive Tableau dashboard.
 
-[![Cyclistic Dashboard](images/cyclistic-dashboard.png)](https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData)
+[![Cyclistic Dashboard](https://github.com/R-Kanhai/Portfolio/blob/main/SnapShot%20of%20Capstone%20Project.png)](https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData)
 
 ---
 
