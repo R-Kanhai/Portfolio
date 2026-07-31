@@ -1,40 +1,34 @@
 # 👋 Hi, I'm Rohan Kanhai
-
-**Google Certified Data Analyst** | SQL • Power BI • Tableau • Python • BigQuery
-
-Turning raw data into business insights through analytics, dashboards, and data storytelling.
-
 ---
-
 
 # 🌐 Portfolio
 
-Welcome to my Data Analytics portfolio.
+Welcome to my Data Analytics Portfolio.
 
-Here you'll find end-to-end analytics projects involving:
+This repository showcases end-to-end analytics projects demonstrating my skills in:
 
 - 📊 Dashboard Development
 - 📈 Business Intelligence
+- 📉 Data Visualization
 - 🗄 SQL Analytics
 - 🐍 Python Data Analysis
-- 📉 Data Visualization
 - 📖 Data Storytelling
 
-Live Portfolio
+### 🔗 Live Portfolio
 
-👉 https://r-kanhai.github.io/Portfolio/
+https://r-kanhai.github.io/Portfolio/
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
 | Languages | SQL, Python, R |
 | BI Tools | Power BI, Tableau |
-| Database | MySQL, BigQuery |
+| Database | MySQL, Google BigQuery |
 | Data Cleaning | Pandas, NumPy |
-| Spreadsheet | Excel, Google Sheets |
+| Spreadsheet | Microsoft Excel, Google Sheets |
 | Version Control | Git & GitHub |
 
 ---
@@ -45,66 +39,59 @@ Live Portfolio
 
 ## 🚴 Cyclistic Bike Share Analysis
 
-[![Cyclistic Dashboard](https://raw.githubusercontent.com/R-Kanhai/Portfolio/main/SnapShot%20of%20Capstone%20Project.png)](https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData)
+> Click the image below to explore the interactive Tableau dashboard.
+
+[![Cyclistic Dashboard](images/cyclistic-dashboard.png)](https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData)
+
+---
 
 ### 📌 Business Problem
 
-How can Cyclistic convert casual riders into annual members?
-
-This capstone project analyzes bike-share usage across 2019–2020 to identify rider behavior patterns and provide actionable marketing recommendations.
+Cyclistic wanted to understand how casual riders use their bikes differently from annual members and identify opportunities to convert casual riders into long-term subscribers.
 
 ---
 
 ### 🔍 Project Highlights
 
-✅ Cleaned and transformed large datasets using SQL
-
-✅ Built an 8-page Tableau Dashboard
-
-✅ Compared Member vs Casual Riders
-
-✅ Created Origin-Destination Analysis
-
-✅ Calculated Ride Duration & Distance
-
-✅ Built Interactive Filters & Drilldowns
+- Cleaned and transformed large datasets using SQL
+- Built an interactive 8-page Tableau dashboard
+- Compared Member vs Casual rider behavior
+- Created Origin-Destination analysis
+- Calculated ride duration and travel distance
+- Added interactive filters and drill-down functionality
 
 ---
 
-### 📊 Dashboard Includes
+### 📊 Dashboard Pages
 
+- Executive Summary
 - Weekday vs Weekend Analysis
 - Monthly Ride Trends
-- Ride Duration Distribution
 - Rides by Day of Week
+- Ride Duration Distribution
 - Distance Travelled
 - Most Popular Start Stations
 - Origin-Destination Analysis
-- Executive Summary Dashboard
 
 ---
 
 ### 📈 Key Insights
 
-📌 Member riders commute mostly on weekdays.
-
-📌 Casual riders dominate weekend usage.
-
-📌 Peak ridership occurs during mid-week.
-
-📌 Popular stations account for a significant share of total rides.
-
-📌 Usage patterns reveal opportunities for membership conversion campaigns.
+- Annual members primarily ride during weekdays.
+- Casual riders are more active on weekends.
+- Ridership peaks during the middle of the week.
+- Several start stations contribute a significant share of total rides.
+- The findings highlight opportunities for targeted membership campaigns.
 
 ---
 
-### 🔗 Links
+### 🔗 Project Links
 
-🌍 Tableau Dashboard
+**📊 Interactive Tableau Dashboard**
 
 https://public.tableau.com/app/profile/rohan.kanhai/viz/CyclisticRideDataforMemberCasualRiders/CyclisticRideData
 
-💻 SQL Project
+**💻 SQL Project**
 
 https://github.com/R-Kanhai/Cyclistic
 
@@ -112,72 +99,47 @@ https://github.com/R-Kanhai/Cyclistic
 
 # 📊 Tableau Public
 
-Explore more interactive dashboards.
+Explore additional interactive dashboards built using real-world datasets.
 
 https://public.tableau.com/app/profile/rohan.kanhai/vizzes
 
-Projects include:
+Current dashboards include:
 
-- Sales Dashboards
-- Marketing Analytics
-- Business Intelligence Reports
-- KPI Dashboards
+- Cyclistic Bike Share Analysis
+- Business Intelligence Dashboards
+- Sales Analytics
 - Customer Analytics
+- Marketing Analytics
 
 ---
 
-# 📈 Currently Working On
+# 🚧 Currently Building
 
-✅ Power BI Marketing Dashboard
-
-✅ Meta Ads Performance Dashboard
-
-✅ Advanced DAX Projects
-
-✅ End-to-End Analytics Projects
+- 📈 Meta Ads Performance Dashboard (Power BI)
+- 📊 Marketing Analytics Dashboard
+- ⚡ Advanced DAX Projects
+- 🧠 End-to-End Analytics Projects
 
 ---
 
-# 🎯 What You'll Find Here
-
-✔ SQL Projects
-
-✔ Power BI Dashboards
-
-✔ Tableau Dashboards
-
-✔ Python Analytics
-
-✔ Business Case Studies
-
-✔ Interactive Reports
-
-✔ Dashboard Walkthroughs
-
----
-
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 📍 Bengaluru, India
 
-📧 rohankanhai55@gmail.com
+📧 Email: rohankanhai55@gmail.com
 
-💼 LinkedIn
-
+💼 LinkedIn  
 https://www.linkedin.com/in/rkanhai
 
-🌍 Portfolio
-
+🌐 Portfolio  
 https://r-kanhai.github.io/Portfolio/
 
-📊 Tableau Public
-
+📊 Tableau Public  
 https://public.tableau.com/app/profile/rohan.kanhai
 
-💻 GitHub
-
+💻 GitHub  
 https://github.com/R-Kanhai
 
 ---
 
-⭐ If you enjoy these projects, consider starring the repositories.
+⭐ Thank you for visiting my portfolio! If you found these projects useful, feel free to ⭐ star the repositories and connect with me on LinkedIn.
